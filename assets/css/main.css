@@ -884,7 +884,7 @@ table tfoot td {
 }
 
 .wrapper {
-  max-width: 1250px;
+ /* max-width: 1250px;*/
   position: relative;
 }
 
@@ -1306,6 +1306,12 @@ a.newer-posts:hover {
   text-decoration: underline;
 }
 
+.project {
+	width: 50%;
+	aspect-ratio: 800/240;
+	overflow: hidden;
+}
+
 /* - - - - - - - - - - Tag Styles - - - - - - - - - - */
 .blog-tags {
   width: 100%;
@@ -1387,6 +1393,10 @@ a.newer-posts:hover {
   .post .post-content .post-title a {
     font-size: 21px;
   }
+  
+  .project {
+	width: 100%;
+  }
 }
 
 /* Small Devices, Tablets */
@@ -1449,6 +1459,11 @@ a.newer-posts:hover {
   .contact-title, .copyright {
     display: none;
   }
+  
+  .project {
+	width: 100%;
+  }
+  
 }
 
 /* Extra Small Devices, Phones */
@@ -1477,5 +1492,9 @@ a.newer-posts:hover {
   }
   .post .post-content .post-title a {
     font-size: 21px;
+  }
+  
+  .project {
+	width: 100%;
   }
 }
