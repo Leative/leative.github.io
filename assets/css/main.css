@@ -1001,6 +1001,8 @@ table tfoot td {
 }
 
 .content-box {
+  width:90%;
+  margin: auto;
   padding: 20px;
   padding-left: 260px;
   display: -webkit-box;
@@ -1307,9 +1309,24 @@ a.newer-posts:hover {
 }
 
 .project {
-	width: 50%;
-	aspect-ratio: 800/240;
-	overflow: hidden;
+  width: 48%;	
+  overflow: hidden;
+  margin: 1%;
+  padding: 0px;
+  border:1px solid black;
+  border-radius: 0px 0px 12px 0px;
+}
+
+.project_title {
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(50,50,50);
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin: 0px;
+  text-transform: uppercase;  
 }
 
 /* - - - - - - - - - - Tag Styles - - - - - - - - - - */
