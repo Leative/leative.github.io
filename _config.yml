@@ -1,4 +1,4 @@
-title: Leative profile and portfoio
+title: Leative profile and portfolio
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Leative # add your name
 author-img: https://avatars.githubusercontent.com/u/12508722?v=4 # add your photo
-about-author: I am a software engineer, researcher, teacher, and gaming enthusiast. Over the last years, my work focused on software engineering, model-driven development, and optimization heuristics. <br/>-<br/> Recently, my focus has shifted to 3D development and, in particular, Unity. Consequently, this page showcases some of the projects created in the course of excercising various Unity concepts. # add description
+about-author: I am a software engineer, researcher, teacher, and gaming enthusiast. Over the last years, my work focused on software engineering, model-driven development, and optimization heuristics. <br/>-<br/> Recently, I started to dive into 3D development and, in particular, Unity. Consequently, this page showcases some of the projects created in the course of excercising various Unity concepts. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: leative # add your Github handle
